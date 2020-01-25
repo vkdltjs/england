@@ -222,20 +222,20 @@ Matchday 34
 #  Manchester City
 
 # in addition Matchday 35
-[Tue Apr/17]
-  Brighton & Hove Albion      1-1  Tottenham Hotspur
+#[Tue Apr/17]
+#  Brighton & Hove Albion      1-1  Tottenham Hotspur
 
 # in addition Matchday 35
-[Wed Apr/18]
-  AFC Bournemouth             0-2  Manchester United
+#[Wed Apr/18]
+#  AFC Bournemouth             0-2  Manchester United
 
 ## in addition Matchday 31
-[Thu Apr/19]
-  Burnley FC                  1-2  Chelsea FC
+#[Thu Apr/19]
+#  Burnley FC                  1-2  Chelsea FC
 
 ## in addition Matchday 35
-[Thu Apr/19]
-  Leicester City              0-0  Southampton FC
+#[Thu Apr/19]
+#  Leicester City              0-0  Southampton FC
 
 Matchday 35
 
@@ -289,25 +289,25 @@ Matchday 37
 #   Cardiff City
 
 # in addition Matchday 31
-[Tue May/8]
-  Swansea City               0-1  Southampton FC
+#[Tue May/8]
+#  Swansea City               0-1  Southampton FC
 
 # 2. Absteiger PremierLeague 2017/18:
 #   West Bromwich Albion
 
 ## in addition Matchday 31
-[Wed May/9]
-  Tottenham Hotspur          1-0  Newcastle United
-  Leicester City             3-1  Arsenal FC
-  Manchester City            3-1  Brighton & Hove Albion
+#[Wed May/9]
+#  Tottenham Hotspur          1-0  Newcastle United
+#  Leicester City             3-1  Arsenal FC
+#  Manchester City            3-1  Brighton & Hove Albion
 
 ## in addition Matchday 35
-[Wed May/9]
-  Chelsea FC                 1-1  Huddersfield Town
+#[Wed May/9]
+#  Chelsea FC                 1-1  Huddersfield Town
 
 ## in addition Matchday 31
-[Thu May/10]
-  West Ham United            0-0  Manchester United
+#[Thu May/10]
+#  West Ham United            0-0  Manchester United
 
 ##  winner for play-off final 2017/18 qualified:
 # [Fri May/11]
