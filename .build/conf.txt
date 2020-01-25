@@ -355,8 +355,8 @@
         Everton x19 => Everton FC
         Fulham x19 => Fulham FC
         Liverpool x19 => Liverpool FC
-        Manchester C x19 => Manchester City FC
-        Manchester U x19 => Manchester United FC
+        Manchester City FC x19 => Manchester City FC
+        Manchester United FC x19 => Manchester United FC
         Newcastle x19 => Newcastle United FC
         Norwich x19 => Norwich City FC
         QPR x19 => Queens Park Rangers FC
