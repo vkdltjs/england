@@ -397,8 +397,8 @@ Matchday 25
   
 Matchday 26
 [Sat Feb/8]
-  FC Everton              - Crystal Palace
-  Brighton & Hove Albion  - FC Watford
+  FC Everton              3-1 Crystal Palace
+  Brighton & Hove Albion  1-1 FC Watford
 [Sun Feb/9]
   Sheffield United        - AFC Bournemouth
   Manchester City         - West Ham United
