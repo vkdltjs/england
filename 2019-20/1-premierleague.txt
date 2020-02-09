@@ -400,8 +400,8 @@ Matchday 26
   FC Everton              3-1 Crystal Palace
   Brighton & Hove Albion  1-1 FC Watford
 [Sun Feb/9]
-  Sheffield United        - AFC Bournemouth
-  Manchester City         - West Ham United
+  Sheffield United        2-1 AFC Bournemouth
+##postponed  Manchester City         - West Ham United
 [Fri Feb/14]
   Wolverhampton Wanderers - Leicester City
 [Sat Feb/15]
