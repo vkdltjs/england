@@ -403,7 +403,7 @@ Matchday 26
   Sheffield United        2-1 AFC Bournemouth
 ##postponed  Manchester City         - West Ham United
 [Fri Feb/14]
-  Wolverhampton Wanderers - Leicester City
+  Wolverhampton Wanderers 0-0 Leicester City
 [Sat Feb/15]
   FC Southampton          - FC Burnley
   Norwich City            - FC Liverpool
@@ -412,7 +412,8 @@ Matchday 26
   Aston Villa             - Tottenham Hotspur
 [Mon Feb/17]
   FC Chelsea              - Manchester United
- 
+[Wed Feb/19]
+  Manchester City         - West Ham United
 
 Matchday 27
 [Sat Feb/22]
